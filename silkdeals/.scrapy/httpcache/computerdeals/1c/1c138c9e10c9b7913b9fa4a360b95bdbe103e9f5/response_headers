@@ -1,0 +1,29 @@
+X-Powered-By: PHP/7.2.31
+Expires: 0
+Cache-Control: private, post-check=0, pre-check=0, max-age=0, no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+X-Ua-Compatible: IE=edge
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Referrer-Policy: strict-origin-when-cross-origin
+Server: Apache
+X-Akamai-Transformed: 9 95934 0 pmb=mRUM,2
+Date: Mon, 14 Dec 2020 17:46:33 GMT
+Set-Cookie: bbsessionhash=dc16ed9fe0aa444c389de128b8cf5c7d; path=/; domain=.slickdeals.net; HttpOnly
+Set-Cookie: auuid=3aac922c3e3411eb8cf5d2917961b292; expires=Tue, 14-Dec-2021 17:46:33 GMT; Max-Age=31536000; path=/; domain=.slickdeals.net
+Set-Cookie: bblastactivity=1607967993; expires=Tue, 14-Dec-2021 17:46:33 GMT; Max-Age=31536000; path=/; domain=.slickdeals.net; secure
+Set-Cookie: sd_a=1607967993|3aad28683e3411eb8cf5d2917961b292-3aad2b103e3411eb8cf5d2917961b292|0|; expires=Tue, 14-Dec-2021 17:46:33 GMT; Max-Age=31536000; path=/; domain=.slickdeals.net
+Set-Cookie: sd_p=nps_tracking=%7B%22last_reset%22%3A1607967960%7D&count=1&new=1&abt_new=1607967960&abt_uuid=d4e0d1278873450882256ba66057922a&sticky=132-263-130-34-54&sd_modern_opt_in=3&sd_modern_opt_out=0; expires=Tue, 14-Dec-2021 17:46:33 GMT; Max-Age=31536000; path=/; domain=.slickdeals.net
+Set-Cookie: sd_p=nps_tracking=%7B%22last_reset%22%3A1607967960%7D&count=1&new=1&abt_new=1607967960&abt_uuid=d4e0d1278873450882256ba66057922a&sticky=132-263-130-34-54&sd_modern_opt_in=3&sd_modern_opt_out=0; expires=Tue, 14-Dec-2021 17:46:33 GMT; Max-Age=31536000; path=/; domain=.slickdeals.net
+Set-Cookie: sd_p=nps_tracking=%7B%22last_reset%22%3A1607967960%7D&count=1&new=1&abt_new=1607967960&abt_uuid=d4e0d1278873450882256ba66057922a&sticky=132-263-130-34-54&sd_modern_opt_in=3&sd_modern_opt_out=0; expires=Tue, 14-Dec-2021 17:46:33 GMT; Max-Age=31536000; path=/; domain=.slickdeals.net
+Set-Cookie: fmessage=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Set-Cookie: fmessage=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Set-Cookie: fmessage=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Set-Cookie: fmessage=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Set-Cookie: sd_s=pvnum=14&dfpSplit=6; path=/; domain=.slickdeals.net
+Set-Cookie: AKA_A2=A; expires=Mon, 14-Dec-2020 18:46:33 GMT; path=/; domain=net; secure; HttpOnly
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=213
+Server-Timing: origin; dur=343
+Strict-Transport-Security: max-age=15768000

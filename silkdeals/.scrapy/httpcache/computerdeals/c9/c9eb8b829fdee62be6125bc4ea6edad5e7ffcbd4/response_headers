@@ -1,0 +1,13 @@
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Last-Modified: Thu, 28 May 2020 17:33:29 GMT
+Etag: "3207280636"
+Content-Type: text/plain
+Accept-Ranges: bytes
+Referrer-Policy: strict-origin-when-cross-origin
+Server: Apache
+Date: Mon, 14 Dec 2020 17:45:56 GMT
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=178
+Server-Timing: origin; dur=9
+Strict-Transport-Security: max-age=15768000

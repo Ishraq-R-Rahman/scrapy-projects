@@ -1,0 +1,748 @@
+[
+    {
+        "Name": "Dove Beauty Bar White",
+        "Size": "135 gm",
+        "Final Price": "99",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [
+            "DOVE White Beauty Bar combines a gentle cleansing formula with DOVE\u2019s signature \u00bc moisturizing cream to give you softer, smoother and more glowing skin. The mild cleansers help your skin to retain its natural moisture rather than stripping it away. This DOVE bar even helps to replenish nutrients that are lost during the cleansing process \u2013 where a regular soap bar might leave your skin feeling dry and tight, a DOVE White Bar leaves it feeling soft and smooth. It\u2019s not a soap \u2013 it\u2019s a beauty bar Washing with regular soap can cause skin to feel dry, tight and irritated as some cleansing ingredients strip skin of essential nutrients. What makes DOVE different? Its gentle cleansers help your skin retain its natural moisture and its mild formula is kind to your skin. DOVE is the No.1 Brand recommended by dermatologists in India. For best results, lather up your DOVE Beauty Bar and massage the smooth, creamy lather over your face and body before rinsing thoroughly. For soft, smooth hands, you can also enjoy regular hand-washing throughout the day with your DOVE bar. Soap may dry out your hands, but the classic moisturizing formula of DOVE bars will leave skin softer, smoother and more glowing."
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-beauty-bar-white-135-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38000&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Hair Fall Rescue (7ml X 6 pcs)",
+        "Size": "42 ml",
+        "Final Price": "24",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-hair-fall-rescue-7ml-x-6-pcs-42-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61227&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Oxygen Moisture (7ml X 6 pcs)",
+        "Size": "42 ml",
+        "Final Price": "24",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-oxygen-moisture-7ml-x-6-pcs-42-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61229&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Hair Intense Repair (7ml X 6 pcs)",
+        "Size": "42 ml",
+        "Final Price": "24",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-hair-intense-repair-7ml-x-6-pcs-42-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61228&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Nourishing Oil Care",
+        "Size": "340 ml",
+        "Final Price": "370",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [
+            "Dove Nourishing Oil Care Shampoo is infused with Vita Oils that instantly helps tame frizzy,\r",
+            "unruly hair and, with continuous use, provide nourishment for healthier hair."
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-nourishing-oil-care-340-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59472&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Intense Repair",
+        "Size": "650 ml",
+        "Final Price": "600",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [
+            "Dove Intense Repair Shampoo with Keratin Actives helps fortify protein at the cellular level, reduces breakage and gives you strong hair. Enjoy free-flowing lustrous locks with unbeatable damage repair."
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-intense-repair-650-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59441&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Intense Repair",
+        "Size": "340 ml",
+        "Final Price": "370",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [
+            "Dove Intense Repair Shampoo with Keratin Actives helps fortify protein at the cellular level, reduces breakage and gives you strong hair. Enjoy free-flowing lustrous locks with unbeatable damage repair."
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-intense-repair-340-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65012&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Hairfall Rescue",
+        "Size": "650 ml",
+        "Final Price": "600",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [
+            "Dove Hair Fall Rescue Shampoo with Nutrilock actives deeply nourishes damaged hair from roots up, making hair stronger and reducing hairfall  by up to 98%*. Combine with Dove Hairfall Rescue Conditioner every time you shampoo for best results."
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-hairfall-rescue-650-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59427&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Oxygen Moisture",
+        "Size": "340 ml",
+        "Final Price": "370",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [
+            "Dove oxygen moisture shampoo uses lightweight oxygen-infused moisturizing ingredients to bring back smoothness while giving hair up to 95% more voluminous look. It is specifically formulated for dry, thin hair. Combine with Dove Oxygen Moisture conditioner for best results"
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-oxygen-moisture-340-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59450&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Environmental Defense",
+        "Size": "170 ml",
+        "Final Price": "210",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [
+            "Dove Environmental Defense Shampoo is infused with lotus extracts which detoxifies hair and reverses up-to 100% of pollution damage. For best results, use Dove Environmental Defense Conditioner with every wash."
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-environmental-defense-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65019&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Intense Repair",
+        "Size": "170 ml",
+        "Final Price": "210",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-intense-repair-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59478&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Intense Repair Combo Pack",
+        "Size": "345 ml",
+        "Final Price": "430",
+        "Price Without Discount": "480",
+        "Stock": "In stock",
+        "Description": [
+            "This Combo Contains:\r",
+            "\r",
+            "Dove Intense Repair Shampoo 180 ml X 1 +\r",
+            "\r",
+            "Dove Intense Repair Conditioner  170 ml X 1  "
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-intense-repair-combo-pack-345-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64183&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Beauty Bar Pink",
+        "Size": "100 gm",
+        "Final Price": "75",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [
+            "DOVE Pink Beauty Bar combines a gentle cleansing formula with DOVE\u2019s signature \u00bc moisturizing cream to give you softer, smoother and more glowing skin. The mild cleansers help your skin to retain its natural moisture rather than stripping it away. This DOVE bar even helps to replenish nutrients that are lost during the cleansing process \u2013 where a regular soap bar might leave your skin feeling dry and tight, a DOVE Pink Bar leaves it feeling soft and smooth. It\u2019s not a soap \u2013 it\u2019s a beauty bar Washing with regular soap can cause skin to feel dry, tight and irritated as some cleansing ingredients strip skin of essential nutrients. What makes DOVE different? Its gentle cleansers help your skin retain its natural moisture and its mild formula is kind to your skin. DOVE is the No.1 Brand recommended by dermatologists in India. For best results, lather up your DOVE Beauty Bar and massage the smooth, creamy lather over your face and body before rinsing thoroughly. For soft, smooth hands, you can also enjoy regular hand-washing throughout the day with your DOVE bar. Soap may dry out your hands, but the classic moisturizing formula of DOVE bars will leave skin softer, smoother and more glowing."
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-beauty-bar-pink-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38010&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Nourishing Oil Care",
+        "Size": "170 ml",
+        "Final Price": "210",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [
+            "Dove Nourishing Oil Care Shampoo is infused with Vita Oils that instantly helps tame frizzy,\r",
+            "unruly hair and, with continuous use, provide nourishment for healthier hair."
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-nourishing-oil-care-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65034&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Beauty Bar White",
+        "Size": "100 gm",
+        "Final Price": "75",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [
+            "DOVE White Beauty Bar combines a gentle cleansing formula with DOVE\u2019s signature \u00bc moisturizing cream to give you softer, smoother and more glowing skin. The mild cleansers help your skin to retain its natural moisture rather than stripping it away. This DOVE bar even helps to replenish nutrients that are lost during the cleansing process \u2013 where a regular soap bar might leave your skin feeling dry and tight, a DOVE White Bar leaves it feeling soft and smooth. It\u2019s not a soap \u2013 it\u2019s a beauty bar Washing with regular soap can cause skin to feel dry, tight and irritated as some cleansing ingredients strip skin of essential nutrients. What makes DOVE different? Its gentle cleansers help your skin retain its natural moisture and its mild formula is kind to your skin. DOVE is the No.1 Brand recommended by dermatologists in India. For best results, lather up your DOVE Beauty Bar and massage the smooth, creamy lather over your face and body before rinsing thoroughly. For soft, smooth hands, you can also enjoy regular hand-washing throughout the day with your DOVE bar. Soap may dry out your hands, but the classic moisturizing formula of DOVE bars will leave skin softer, smoother and more glowing."
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-beauty-bar-white-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38005&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Pond's Cold Cream",
+        "Size": "50 gm",
+        "Final Price": "216",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [
+            "Get soft, glowing skin!"
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-cold-cream-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44552&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Hairfall Rescue",
+        "Size": "340 ml",
+        "Final Price": "370",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [
+            "Dove Hair Fall Rescue Shampoo with Nutrilock actives deeply nourishes damaged hair from roots up, making hair stronger and reducing hairfall  by up to 98%*. Combine with Dove Hairfall Rescue Conditioner every time you shampoo for best results."
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-hairfall-rescue-340-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59434&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Pond's Cold Cream",
+        "Size": "28 gm",
+        "Final Price": "50",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-cold-cream-28-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44874&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Pond\u2019s Vanishing Cream",
+        "Size": "28 gm",
+        "Final Price": "40",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-oil-control-vanishing-cream-28-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D27572&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Pond's Men Energy Charge Face Wash",
+        "Size": "100 gm",
+        "Final Price": "350",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-men-energy-charge-face-wash-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D19660&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Pond's Sandal Radiance Talc Natural Sunscreen",
+        "Size": "100 gm",
+        "Final Price": "185",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-sandal-radiance-talc-natural-sunscreen-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25739&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Pond's  White Beauty Combo Pack (Day Cream+Face Wash)",
+        "Size": null,
+        "Final Price": "260",
+        "Price Without Discount": "310",
+        "Stock": "Out of Stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-white-beauty-combo-pack-day-creamface-wash?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44602&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Pond's Day Cream White Beauty",
+        "Size": "50 gm",
+        "Final Price": "280",
+        "Price Without Discount": "350",
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-day-cream-white-beauty-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44604&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Pond's Day Cream White Beauty",
+        "Size": "25 gm",
+        "Final Price": "80",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-day-cream-white-beauty-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44603&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Pond's Mineral Clay Mask White Beauty",
+        "Size": "8 gm",
+        "Final Price": "48",
+        "Price Without Discount": "60",
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-mineral-clay-mask-white-beauty-8-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60188&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Pond's Mineral Clay Mask Pure White D-Toxx",
+        "Size": "8 gm",
+        "Final Price": "48",
+        "Price Without Discount": "60",
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-mineral-clay-mask-pure-white-d-toxx-8-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60189&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Ponds Men Facewash Lightning Oil Clear",
+        "Size": "100 gm",
+        "Final Price": "225",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-men-facewash-lightning-oil-clear-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44207&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Ponds Face Wash White Beauty",
+        "Size": "50 gm",
+        "Final Price": "99",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-face-wash-white-beauty-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44205&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Ponds Men Facewash Lightning Oil Clear",
+        "Size": "50 gm",
+        "Final Price": "125",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-men-facewash-lightning-oil-clear-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44208&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Ponds Pure White Mineral Clay Anti Pollution Purity Face Wash Foam",
+        "Size": "90 gm",
+        "Final Price": "200",
+        "Price Without Discount": "250",
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-pure-white-mineral-clay-anti-pollution-purity-face-wash-foam-90-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60187&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Men Shampoo Complete Care 2 in 1 Formula",
+        "Size": "355 ml",
+        "Final Price": "520",
+        "Price Without Discount": null,
+        "Stock": "Out of Stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50066&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Men Shampoo Thick & Strong",
+        "Size": "355 ml",
+        "Final Price": "520",
+        "Price Without Discount": null,
+        "Stock": "Out of Stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50067&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Ponds Face Wash Daily",
+        "Size": "100 gm",
+        "Final Price": "115",
+        "Price Without Discount": "140",
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-face-wash-daily-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44199&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Ponds Face Wash White Beauty (50% Flash Sales)",
+        "Size": "50 gm",
+        "Final Price": "99",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-face-wash-white-beauty-50-flash-sales-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D62874&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Ponds White Beauty Mineral Clay Instant Brightness Face Wash Foam",
+        "Size": "90 gm",
+        "Final Price": "192",
+        "Price Without Discount": "240",
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-white-beauty-mineral-clay-instant-brightness-face-wash-foam-90-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60186&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Ponds Men Facewash Energy Charge",
+        "Size": "50 gm",
+        "Final Price": "125",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-men-facewash-energy-charge-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43358&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Ponds Men Facewash Acne Solution",
+        "Size": "100 gm",
+        "Final Price": "225",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-men-facewash-acne-solution-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44187&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Pond's Face Wash Daily",
+        "Size": "50 gm",
+        "Final Price": "85",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-face-wash-daily-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44200&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Ponds Men Facewash Acne Solution",
+        "Size": "50 gm",
+        "Final Price": "125",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-men-facewash-acne-solution-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44189&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Ponds Men Facewash Energy Charge",
+        "Size": "100 gm",
+        "Final Price": "225",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-men-facewash-energy-charge-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44185&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Ponds Men Facewash Power Clear",
+        "Size": "100 gm",
+        "Final Price": "225",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-men-facewash-power-clear-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50472&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Ponds Day Cream Age Miracle",
+        "Size": "25 gm",
+        "Final Price": "600",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54982&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Pond's Day Cream White Beauty",
+        "Size": "35 gm",
+        "Final Price": "130",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-day-cream-white-beauty-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44547&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Ponds Face Wash Scrub",
+        "Size": "100 gm",
+        "Final Price": "124",
+        "Price Without Discount": "155",
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-face-wash-scrub-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44206&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Pond's Face Wash White Beauty",
+        "Size": "100 gm",
+        "Final Price": "144",
+        "Price Without Discount": "180",
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-face-wash-white-beauty-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44194&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Intensive Cream",
+        "Size": "75 ml",
+        "Final Price": "275",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48168&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Conditioner Intense Repair",
+        "Size": "175 ml",
+        "Final Price": "270",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-conditioner-intense-repair-175-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52038&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Pond's Face Wash Pure White",
+        "Size": "100 gm",
+        "Final Price": "152",
+        "Price Without Discount": "190",
+        "Stock": "In stock",
+        "Description": [
+            "Origin: India \r",
+            "Manufacturer: Unilever ltd.\r",
+            "Ponds\u2019 pure white facial foam contains activated carbon charcoal. This deep cleanser extracts out pollutants and impurities, leaving skin so clean and pure, it glows!\r",
+            "Ingredients: Myristic acid, glycerine, palmitic acid, stearic acid, charcoal powder, carbone perfume, water, propylene glycol, glycerol, potassium hydroxide, lauric acid,disodium EDTA, niacinamide."
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/ponds-face-wash-pure-white-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44188&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Baby Rich Moisture Lotion",
+        "Size": "200 ml",
+        "Final Price": "351",
+        "Price Without Discount": "360",
+        "Stock": "Out of Stock",
+        "Description": [
+            "Origin: United Kingdom"
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-baby-rich-moisture-lotion-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69445&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Beauty Cream",
+        "Size": "75 ml",
+        "Final Price": "195",
+        "Price Without Discount": null,
+        "Stock": "Out of Stock",
+        "Description": [
+            "Origin: England"
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-beauty-cream-75-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D32013&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Nourishing Secrets Body Lotion",
+        "Size": "400 ml",
+        "Final Price": "520",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-nourishing-secrets-body-lotion-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52949&q=best&v=1&w=600"
+    },
+    {
+        "Name": "Dove Baby Sensitive Moisture Lotion",
+        "Size": "200 ml",
+        "Final Price": "350",
+        "Price Without Discount": null,
+        "Stock": "Out of Stock",
+        "Description": [
+            "Origin: United Kingdom"
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-baby-sensitive-moisture-lotion-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69444&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Go Fresh Roll On",
+        "Size": "50 ml",
+        "Final Price": "220",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-go-fresh-roll-on-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54417&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Intensive Body Lotion",
+        "Size": "400 ml",
+        "Final Price": "480",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-intensive-body-lotion-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53374&q=best&v=1&w=600"
+    },
+    {
+        "Name": "Dove Essential Body Lotion",
+        "Size": "400 ml",
+        "Final Price": "480",
+        "Price Without Discount": null,
+        "Stock": "Out of Stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-essential-body-lotion-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D51986&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Silky Cream",
+        "Size": "300 ml",
+        "Final Price": "543",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-silky-cream-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D51998&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Hairfall Rescue",
+        "Size": "170 ml",
+        "Final Price": "210",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-hairfall-rescue-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45056&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Caring Cucumber & Green Tea Scent Hand wash",
+        "Size": "250 ml",
+        "Final Price": "350",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [
+            "Origin: United Kingdom"
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-caring-cucumber-green-tea-scent-hand-wash-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40407&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Caring Hand Wash (UK)",
+        "Size": "250 ml",
+        "Final Price": "350",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [
+            "Origin: United Kingdom"
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-caring-hand-wash-uk-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40408&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Beauty Serum Deep Pure",
+        "Size": "130 gm",
+        "Final Price": "280",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-beauty-serum-deep-pure-130-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47015&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Conditioner Environmental Defense",
+        "Size": "190 ml",
+        "Final Price": "290",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-conditioner-environmental-defense-190-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50046&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Caring Fine Silk Hand wash",
+        "Size": "250 ml",
+        "Final Price": "350",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-caring-fine-silk-hand-wash-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40406&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Facewash Beauty Serum Sensitive",
+        "Size": "130 ml",
+        "Final Price": "330",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-facewash-beauty-serum-sensitive-130-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58045&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Environmental Defense",
+        "Size": "340 ml",
+        "Final Price": "370",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-environmental-defense-340-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45053&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Micellar Water",
+        "Size": "100 ml",
+        "Final Price": "250",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-micellar-water-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44590&q=low&m=100&v=1&w=600"
+    },
+    {
+        "Name": "Ponds Dreamflower Talc Powder",
+        "Size": "200 gm",
+        "Final Price": "230",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61444&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Original Roll On",
+        "Size": "50 ml",
+        "Final Price": "220",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-original-roll-on-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D51992&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Conditioner Hairfall Rescue",
+        "Size": "180 ml",
+        "Final Price": "270",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-conditioner-hairfall-rescue-180-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50184&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Oxygen Moisture",
+        "Size": "170 ml",
+        "Final Price": "210",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-oxygen-moisture-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65014&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Healthy Growth",
+        "Size": "170 ml",
+        "Final Price": "210",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-healthy-growth-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59471&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Conditioner Oxygen Moisture",
+        "Size": "180 ml",
+        "Final Price": "290",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-conditioner-oxygen-moisture-180-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50183&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Face Wash Beauty Moisture",
+        "Size": "100 gm",
+        "Final Price": "299",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-face-wash-beauty-moisture-facial-cleanser-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44201&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Face Wash Beauty Moisture",
+        "Size": "50 gm",
+        "Final Price": "160",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-face-wash-beauty-moisture-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D37997&q=best&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Hairfall Rescue Combo Pack",
+        "Size": "350 ml",
+        "Final Price": "430",
+        "Price Without Discount": "480",
+        "Stock": "In stock",
+        "Description": [
+            "This Combo Contains:\r",
+            "Dove Hairfall Rescue Conditioner 180ml X1\r",
+            "Dove Hairfall Rescue Shampoo 180ml X 1\r"
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-hairfall-rescue-combo-pack-350-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64182&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Healthy Growth",
+        "Size": "340 ml",
+        "Final Price": "370",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-healthy-growth-340-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59432&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Shampoo Healthy Grow (7ml X 6 pcs)",
+        "Size": "42 ml",
+        "Final Price": "24",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-shampoo-healthy-grow-7ml-x-6-pcs-42-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61230&q=low&v=1&w=600"
+    },
+    {
+        "Name": "Dove Beauty Bar Pink",
+        "Size": "135 gm",
+        "Final Price": "99",
+        "Price Without Discount": null,
+        "Stock": "In stock",
+        "Description": [
+            "DOVE Pink Beauty Bar combines a gentle cleansing formula with DOVE\u2019s signature \u00bc moisturizing cream to give you softer, smoother and more glowing skin. The mild cleansers help your skin to retain its natural moisture rather than stripping it away. This DOVE bar even helps to replenish nutrients that are lost during the cleansing process \u2013 where a regular soap bar might leave your skin feeling dry and tight, a DOVE Pink Bar leaves it feeling soft and smooth. It\u2019s not a soap \u2013 it\u2019s a beauty bar Washing with regular soap can cause skin to feel dry, tight and irritated as some cleansing ingredients strip skin of essential nutrients. What makes DOVE different? Its gentle cleansers help your skin retain its natural moisture and its mild formula is kind to your skin. DOVE is the No.1 Brand recommended by dermatologists in India. For best results, lather up your DOVE Beauty Bar and massage the smooth, creamy lather over your face and body before rinsing thoroughly. For soft, smooth hands, you can also enjoy regular hand-washing throughout the day with your DOVE bar. Soap may dry out your hands, but the classic moisturizing formula of DOVE bars will leave skin softer, smoother and more glowing."
+        ],
+        "Image": "https://cdn.chaldal.net/_mpimage/dove-beauty-bar-pink-135-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38016&q=low&v=1&w=600"
+    }
+]
